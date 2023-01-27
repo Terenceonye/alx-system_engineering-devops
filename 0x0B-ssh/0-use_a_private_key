@@ -3,3 +3,4 @@
 
 ssh -i ~/.ssh/school ubuntu@54.157.144.59
 ssh -i ~/.ssh/school ubuntu@54.237.8.122
+ssh -i ~/.ssh/school ubuntu@18.207.142.109
